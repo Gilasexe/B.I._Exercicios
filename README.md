@@ -36,4 +36,4 @@ Abaixo está a lista de todos os módulos e exercícios práticos armazenados ne
 
 1. **Clone o projeto** para a sua máquina local:
    ```bash
-   git clone [https://github.com/Gilasexe/B.I._Exercicios.git](https://github.com/Gilasexe/B.I._Exercicios.git)
+   git clone https://github.com/Gilasexe/B.I._Exercicios.git
