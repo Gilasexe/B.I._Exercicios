@@ -24,6 +24,7 @@ Abaixo está a lista de todos os módulos e exercícios práticos armazenados ne
 | Pasta / Aula | Descrição do Projeto | Status |
 | :--- | :--- | :---: |
 | 📁 `aula_04_web_scraping_scrapy` | Bot de extração de dados do sitemap de um Supermercado usando Scrapy puro. | ✅ Concluído |
+| 📁 `aula_02_nome_da_aula` | Uma simples utilização de python para analise de dados | ✅ Concluído |
 | 📁 `aula_XX_nome_da_aula` | *(Descrição curta do que foi feito aqui)* | 🚧 Em progresso |
 | 📁 `aula_XX_nome_da_aula` | *(Descrição curta do que foi feito aqui)* | ⏳ Na fila |
 
