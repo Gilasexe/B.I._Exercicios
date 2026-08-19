@@ -1,5 +1,4 @@
 Antes de tudo, recomendo que crie um ambiente virtual, com 'python -m venv .venv' e ative com '.venv\Scripts\activate' 
-eu sei que você ja deve saber disso né eric kkkkk
 só pra deixar como se fosse um projeto a parte, e caso eu esqueça no futuro, é importante lembrar que precisa dos requisitos em 
 'requirements.txt' que pode ser baixado com 'pip install -r requirements.txt'.
 
