@@ -1,0 +1,17 @@
+Antes de tudo, recomendo que crie um ambiente virtual, com 'python -m venv .venv' e ative com '.venv\Scripts\activate' 
+eu sei que você ja deve saber disso né eric kkkkk
+só pra deixar como se fosse um projeto a parte, e caso eu esqueça no futuro, é importante lembrar que precisa dos requisitos em 
+'requirements.txt' que pode ser baixado com 'pip install -r requirements.txt'.
+
+Deixei os resultados que eu tive com esses scripts na pasta 'resultados'.
+
+Sequencia dos arquivos: (se você estiver rodando pelo vs code, é só apertar no "play" la encima na direita, se não, escreva 'python'
+antes de cada nome dos arquivos, tipo 'python database_schema.py' e assim por diante.).
+
+1- rode o database_schema.py
+
+2- rode o api_ipca.py
+
+3- rode o scraper_giassi.py
+
+4- rode o relatorio_cesta.py

@@ -1,0 +1,51 @@
+# =========================
+# AMBIENTES VIRTUAIS
+# =========================
+.venv/
+venv/
+env/
+
+# =========================
+# CACHES DO PYTHON
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# =========================
+# CACHE DO SCRAPY
+# =========================
+.scrapy/
+cache/
+*.log
+
+# =========================
+# BANCOS DE DADOS
+# =========================
+*.db
+*.sqlite3
+
+# =========================
+# DATASETS PESADOS
+# Baixados pelo usuario, cada aula explica a origem no seu README
+# =========================
+aulas/aula02/EmendasParlamentares.csv
+aulas/aula07/WDICSV.csv
+aulas/aula07/WDICSV_preparado.csv
+aulas/aula07/WDISeries.csv
+aulas/aula07/WDICountry.csv
+
+# =========================
+# ARTEFATOS DE ENTREGA
+# Gerados por script, nao versionar
+# =========================
+*.zip
+
+# =========================
+# SISTEMA OPERACIONAL / EDITOR
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
