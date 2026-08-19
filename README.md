@@ -34,7 +34,7 @@ This is a public repository for my **Business Intelligence classes** at **SENAI*
 ## Suit yourself and clone the repository
 
 ```bash
-git clone "https://github.com/gilas-byte/B.I._Exercicios"
+git clone "https://github.com/gilas-byte/aulas-b.i."
 ```
 
 and if the repository gets an update:
@@ -98,7 +98,7 @@ Depois é só seguir o README daquela aula: ele traz o `pip install` exato e a o
 ## Sinta-se à vontade para clonar o repositório
 
 ```bash
-git clone "https://github.com/gilas-byte/B.I._Exercicios"
+git clone "https://github.com/gilas-byte/aulas-b.i."
 ```
 
 e se o repositório tiver alguma atualização:
